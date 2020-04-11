@@ -2,11 +2,8 @@
 Hurtowe przypisanie Pakietów zasad dla użytkowników dla licencji nauczyciel/uczeń
 
 W Centrum adminstracyjmym Office 365 wejdź do Użytkownicy>Aktywni użytkownicy. 
-
 Odszukaj z menu nad listą użytków: Eksportuj użytkowników i pobierz plik do folderu. 
-
 Zapisz go pod nazwą lista.csv
-
 Umieść w tym samym katalogu.
 
 W skrypcie sprawdź wartości:
